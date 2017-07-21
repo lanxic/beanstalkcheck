@@ -1,0 +1,4 @@
+beanstalkc==0.4.0
+logging==0.4.9.6
+pprint==0.1
+PyYAML==3.12
